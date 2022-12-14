@@ -14,6 +14,10 @@ https://git-scm.com/download
 4) adicionar as novas funcionalidades ao seu projeto em produção (merge)
 5) deletar a branch da nova funcionalidade, depois de aplicar ao projeto principal
 6) colocar seu projeto na nuvem (repositório remoto - github)
+7) pegar projeto ja inicado, para trabalhar com o time
+8) resolver um conflito
+9) atualizar o arquivo local antes de dar um push no arquivo para a nuvem, principalmente para projetos com pessoas trabalhando simultaneamente
+
 
 # COMANDOS
 
@@ -27,6 +31,7 @@ https://git-scm.com/download
 * 'git status'                  - informa o estado das altrerações do nosso projeto
 * 'git show'                    - apresenta determinado ponto na historia
 * 'git merge'                   - junta as alterações de uma branch no seu projeto
+
 
 
 
